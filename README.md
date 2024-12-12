@@ -54,7 +54,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/OviVidu/OviVidu/output/snake.svg" alt="Snake animation" />
 
 ###
 ###
