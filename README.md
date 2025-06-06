@@ -1,5 +1,8 @@
 ## Hi there 👋
 <h2 align="left"> My name is Ovinda Vidushan and I'm a Data Science Enthuaiast</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OvindaVidushan&label=Profile%20views&color=0e75b6&style=flat" alt="OvindaVidushan" /> </p>
+<img src="https://github.com/mishmanners/MishManners/blob/output/github-snake.svg" />
+
 
 **About Me😎**
 
