@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h2 align="left"> My name is Ovinda Vidushan and I'm a Data Science Enthuaiast</h2>
+<h2 align="left"> My name is Ovinda Vidushan and I'm a Data Science Enthusiastic</h2>
 
 
 
