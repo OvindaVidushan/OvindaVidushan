@@ -1,6 +1,6 @@
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h2 align="center"> Hi👋, My name is Ovinda Vidushan and I'm a Data Science Enthusiastic</h2>
+<h2 align="center"> Hi👋, My name is Ovinda Vidushan and I'm a Data Science Enthusiast</h2>
 
 
 
