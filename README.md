@@ -13,16 +13,15 @@
 - 💬 Ask me about **Python basics, problem-solving, or my projects**
 - 📫 How to reach me: **ovindavidushan@gmail.com**
 - ⚡ Fun fact: **I love solving puzzles and automating daily tasks with Python!**
+  
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OvindaVidushan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&cache_seconds=90&theme=radical&locale=en&hide_border=false" alt="stats          graph" style="margin-right: 300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OvindaVidushan&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false"  alt="languages graph" width=300px/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OvindaVidushan&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false"  alt="languages graph" width=350px/>
 </div>
 
 ###
-
-
 
 ###
 <h3 align="left">Languages and Tools:</h3>
