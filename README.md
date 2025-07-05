@@ -18,7 +18,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OvindaVidushan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&cache_seconds=90&theme=radical&locale=en&hide_border=false" 
-    alt="stats graph"" />
+    alt="stats graph" width=480px />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OvindaVidushan&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false"  alt="languages graph" width=380px/>
 </div>
 
@@ -26,7 +26,7 @@
 
 ###
 <h3 align="left">Languages and Tools:</h3>
-<img align="right" width="180" height="180" src="https://i.imgflip.com/65efzo.gif" style="margin-left: 30px;"  />
+<img align="right" width="180" height="180" src="https://i.imgflip.com/65efzo.gif" />
      <p align="left"> 
          <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 logo in blue with the number 3 prominently displayed, representing                 the Cascading Style Sheets language, set against a plain background" width="40" height="40"/></a>
