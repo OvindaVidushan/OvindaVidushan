@@ -19,7 +19,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OvindaVidushan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&cache_seconds=90&theme=radical&locale=en&hide_border=false" 
     alt="stats graph" width=450px />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OvindaVidushan&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false"  alt="languages graph" width=380px/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OvindaVidushan&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false"  alt="languages graph" width=360px/>
 </div>
 
 ###
