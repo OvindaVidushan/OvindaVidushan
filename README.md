@@ -20,17 +20,17 @@
     <td style="padding-right:10px;">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=OvindaVidushan&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=false"
-        width="360" height="180"/>
+        width="500" height="200"/>
     </td>
     <td style="padding-right:10px;">
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=OvindaVidushan&layout=compact&langs_count=6&theme=radical&hide_border=false"
-        width="360" height="180"/>
+         width="400" height="200"/>
     </td>
     <td>
       <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=OvindaVidushan&theme=radical&hide_border=false"
-        width="360" height="180"/>
+       width="500" height="200"/>
     </td>
   </tr>
 </table>
