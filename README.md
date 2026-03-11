@@ -15,11 +15,25 @@
 - ⚡ Fun fact: **I love solving puzzles and automating daily tasks with Python!**
   
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OvindaVidushan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&cache_seconds=60&theme=radical&locale=en&hide_border=false" 
-    alt="stats graph" width=450px />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OvindaVidushan&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false"  alt="languages graph" width=360px/>
-</div>
+ <table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="padding-right:10px;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=OvindaVidushan&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=false"
+        width="360" height="180"/>
+    </td>
+    <td style="padding-right:10px;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=OvindaVidushan&layout=compact&langs_count=6&theme=radical&hide_border=false"
+        width="360" height="180"/>
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=OvindaVidushan&theme=radical&hide_border=false"
+        width="360" height="180"/>
+    </td>
+  </tr>
+</table>
 
 ###
 
