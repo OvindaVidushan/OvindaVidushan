@@ -6,14 +6,14 @@
 
 **About Me😎**
 
-- 🔭 I’m currently working on **Python Projects**
-- 🌱 I’m currently learning **Python**
-- 👯 I’m looking to collaborate on **open-source Python projects**
-- 🤔 I’m looking for help with **advanced Python concepts and frameworks**
-- 💬 Ask me about **Python basics, problem-solving, or my projects**
+- 🔭 I’m currently working on Data Science and **Python-based projects**
+- 🌱 I’m currently learning **Data Science, NLP,AI,Machine Learning, and Python libraries like Pandas, NumPy, and Scikit-learn**
+- 👯 I’m looking to collaborate on **open-source Data Science and analytics projects**
+- 🤔 I’m looking for help with **advanced data analysis, machine learning models, and real-world datasets**
+- 💬 Ask me about **Python, data analysis, statistics, or my projects**
 - 📫 How to reach me: **ovindavidushan@gmail.com**
-- ⚡ Fun fact: **I love solving puzzles and automating daily tasks with Python!**
-  
+- ⚡ Fun fact: **I enjoy exploring data, finding patterns, and turning insights into practical solutions!**
+
 ###
  <table border="0" cellpadding="0" cellspacing="0">
   <tr>
