@@ -6,7 +6,7 @@
 
 **About Me😎**
 
-- 🔭 I’m currently working on Data Science and **Python-based projects**
+- 🔭 I’m currently working on **Data Science and Python-based projects**
 - 🌱 I’m currently learning **Data Science, NLP,AI,Machine Learning, and Python libraries like Pandas, NumPy, and Scikit-learn**
 - 👯 I’m looking to collaborate on **open-source Data Science and analytics projects**
 - 🤔 I’m looking for help with **advanced data analysis, machine learning models, and real-world datasets**
