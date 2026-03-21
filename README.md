@@ -1,7 +1,7 @@
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h2 align="center"> Hi👋, My name is Ovinda Vidushan and I'm a Supply Chain Analyst</h2>
-
+<h1 align="center">Hi, I'm Ovinda Vidushan🔥</h1>
+<h3 align="center"> ~ Supply Chain Analyst📊 | Python Developer💻 | Data Engineer🧮 ~ </h3>
 
 
 **About Me😎**
