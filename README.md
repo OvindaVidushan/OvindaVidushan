@@ -2,6 +2,8 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi, I'm Ovinda Vidushan🔥</h1>
 <h3 align="center"> ~ Supply Chain Analyst📊 | Python Developer💻 | Data Engineer🧮 ~ </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=OvindaVidushan&label=Profile%20views&color=0e75b6&style=flat" alt="OvindaVidushan" /> </p>
+
 
 
 **About Me😎**
@@ -83,7 +85,6 @@
 </div>
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OvindaVidushan&label=Profile%20views&color=0e75b6&style=flat" alt="OvindaVidushan" /> </p>
 <img src="https://github.com/mishmanners/MishManners/blob/output/github-snake.svg" />
 <br clear="both">
 
